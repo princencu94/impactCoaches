@@ -9,6 +9,10 @@
     font-weight: 900;
 }
 
+.page-title {
+    margin-bottom:100px;
+}
+
 .page-content {
     width:80%;
     margin:0 auto;
@@ -17,3 +21,4 @@
     justify-content: space-between;
 
 }
+

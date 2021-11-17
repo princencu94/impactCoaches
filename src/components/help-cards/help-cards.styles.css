@@ -41,4 +41,11 @@
     margin-bottom: 20px;
     color:white;
     cursor: pointer;
+    border-radius: 5px;
+    font-family:'Open Sans', sans-serif;;
 }
+
+.select-button:hover {
+    opacity: 0.8;
+}
+

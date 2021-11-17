@@ -1,5 +1,5 @@
 import './App.css';
-import HelpCards from './components/help-cards/help-cards.component';
+
 import ProductPage from './pages/products/products.page';
 
 
